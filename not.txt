@@ -1,0 +1,7 @@
+Denetimsiz Öğrenme (Unsupervised Learning):
+etiketli veri olmadan, yalnızca giriş verisi ile çalışan bir öğrenme türüdür. 
+Burada model, verilerdeki desenleri, yapıları ve ilişkileri keşfetmeye çalışır. 
+hedef, verilerdeki gizli yapıları ve gruplamaları (klasifikasyon yerine) anlamaktır.
+
+K-Ortalamalar yöntemi (K-Means): Etiketlenmemiş veriler, kümeleme yöntemi ile gösterdikleri özelliklere göre sınıflandırılır. 
+örnek: Bir grup müşteriyi, benzer alışveriş alışkanlıklarına göre segmentlere ayırmak (kümeleme).
